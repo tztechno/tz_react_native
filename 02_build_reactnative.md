@@ -1,3 +1,6 @@
+
+# partially install completed
+
 -------------------------------------
 npm install -g react-native-cli
 
